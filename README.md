@@ -2,7 +2,7 @@
 Downloader for the updates for Factorio running on an x64 Linux headless server
 # How to use
 Run `main.py` and supply your current server's version number.
-```python
+```bash
 shell> python3 main.py
 Found latest 'core-linux_headless64' stable version: 1.1.87
 Please give your current version number in the format listed in https://updater.factorio.com/get-available-versions
