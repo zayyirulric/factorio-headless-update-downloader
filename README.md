@@ -14,3 +14,8 @@ Finished downloading all updates.
 # How to update Factorio
 In your Factorio server's root directory, run
 `./bin/x64/factorio --apply-update update-<FROM_VERSION>-<TO_VERSION>.zip`
+
+Example: 
+```bash
+./bin/x64/factorio --apply-update update-1.1.86-1.1.87.zip
+```
